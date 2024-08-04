@@ -2,3 +2,4 @@ Flask==2.0.1
 scapy==2.4.5
 pyshark==0.4.3
 requests==2.25.1
+wiresbark
